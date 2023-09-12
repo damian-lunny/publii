@@ -1,41 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Testing Tester",
+    "title": "Publii Test",
     "description": "",
-    "home_page_url": "https://github.com/damian-lunny/publii",
-    "feed_url": "https://github.com/damian-lunny/publii/feed.json",
+    "home_page_url": "https://damian-lunny.github.io/publii",
+    "feed_url": "https://damian-lunny.github.io/publii/feed.json",
     "user_comment": "",
     "author": {
         "name": "Damian Lunny"
     },
     "items": [
-        {
-            "id": "https://github.com/damian-lunny/publii/sharepoint.html",
-            "url": "https://github.com/damian-lunny/publii/sharepoint.html",
-            "title": "sharepoint",
-            "summary": "* [IT Sharepoint](http://sharepoint.westhealth.n-i.nhs.uk/sites/it/) * [IT Annual leave calendar](http://sharepoint.westhealth.n-i.nhs.uk/sites/it/Lists/ICT%20Annual%20Leave%20Calendar) * [Sharepoint - Comms](http://sharepoint.westhealth.n-i.nhs.uk/sites/it/COMMS/Forms/AllItems.aspx) * [Sharepoint - DNS spreadsheet](http://sharepoint.westhealth.n-i.nhs.uk/sites/it/techsupport/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2Fit%2Ftechsupport%2FShared%20Documents%2FDNS%20Issue%20Tracker&amp;FolderCTID=0x0120003AF4C9FBF0466440AE84540F122C3781&amp;View=%7B1CB3EF87%2D201E%2D459A%2D9252%2DAD424143782C%7D) * [Sharepoint - TEP spreadsheet](http://sharepoint.westhealth.n-i.nhs.uk/sites/it/Asset%20Management/Forms/AllItems.aspx?RootFolder=%2Fsites%2Fit%2FAsset%20Management%2FTEP%20EMERGENCY%20DEVICES&amp;FolderCTID=0x0120003F2F2AC3449AA04AB84B36EFC7C431DF&amp;View=%7B398260EC%2DB041%2D42D8%2D8D60%2DBF25D1C86DF9%7D) * [Sharepoint - Asset Disposals](http://sharepoint.westhealth.n-i.nhs.uk/sites/it/Asset%20Management/Forms/AllItems.aspx?RootFolder=%2Fsites%2Fit%2FAsset%20Management%2FDisposals%20List%2FSWAH%20Disposals&amp;FolderCTID=0x0120003F2F2AC3449AA04AB84B36EFC7C431DF&amp;View=%7B398260EC%2DB041%2D42D8%2D8D60%2DBF25D1C86DF9%7D) * [Sharepoint - Users who have taken their PCs home](http://sharepoint.westhealth.n-i.nhs.uk/sites/it/techsupport/_layouts/15/WopiFrame.aspx?sourcedoc=%7b8A32295A-5364-4B96-98B5-41369AE506BB%7d&amp;file=USB%20Wifi.xlsx&amp;action=default&amp;DefaultItemOpen=1) * [Flexi sheet](http://sharepoint.westhealth.n-i.nhs.uk/sites/it/techsupport/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2Fit%2Ftechsupport%2FShared%20Documents%2FICT%20Technical%20Staff%20Timesheets%2FTech%20Support%20Team%2FDamian%20Lunny&amp;FolderCTID=0x0120003AF4C9FBF0466440AE84540F122C3781&amp;View=%7B1CB3EF87%2D201E%2D459A%2D9252%2DAD424143782C%7D) * [Change requests](http://sharepoint.westhealth.n-i.nhs.uk/sites/it/Lists/Change%20Requests/AllItems.aspx) * [CAB&hellip;",
-            "content_html": "<p>  * [IT Sharepoint](http://sharepoint.westhealth.n-i.nhs.uk/sites/it/)<br>  * [IT Annual leave calendar](http://sharepoint.westhealth.n-i.nhs.uk/sites/it/Lists/ICT%20Annual%20Leave%20Calendar)<br>  * [Sharepoint - Comms](http://sharepoint.westhealth.n-i.nhs.uk/sites/it/COMMS/Forms/AllItems.aspx)<br>  * [Sharepoint - DNS spreadsheet](http://sharepoint.westhealth.n-i.nhs.uk/sites/it/techsupport/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2Fit%2Ftechsupport%2FShared%20Documents%2FDNS%20Issue%20Tracker&amp;FolderCTID=0x0120003AF4C9FBF0466440AE84540F122C3781&amp;View=%7B1CB3EF87%2D201E%2D459A%2D9252%2DAD424143782C%7D)<br>  * [Sharepoint - TEP spreadsheet](http://sharepoint.westhealth.n-i.nhs.uk/sites/it/Asset%20Management/Forms/AllItems.aspx?RootFolder=%2Fsites%2Fit%2FAsset%20Management%2FTEP%20EMERGENCY%20DEVICES&amp;FolderCTID=0x0120003F2F2AC3449AA04AB84B36EFC7C431DF&amp;View=%7B398260EC%2DB041%2D42D8%2D8D60%2DBF25D1C86DF9%7D)<br>  * [Sharepoint - Asset Disposals](http://sharepoint.westhealth.n-i.nhs.uk/sites/it/Asset%20Management/Forms/AllItems.aspx?RootFolder=%2Fsites%2Fit%2FAsset%20Management%2FDisposals%20List%2FSWAH%20Disposals&amp;FolderCTID=0x0120003F2F2AC3449AA04AB84B36EFC7C431DF&amp;View=%7B398260EC%2DB041%2D42D8%2D8D60%2DBF25D1C86DF9%7D)<br>  * [Sharepoint - Users who have taken their PCs home](http://sharepoint.westhealth.n-i.nhs.uk/sites/it/techsupport/_layouts/15/WopiFrame.aspx?sourcedoc=%7b8A32295A-5364-4B96-98B5-41369AE506BB%7d&amp;file=USB%20Wifi.xlsx&amp;action=default&amp;DefaultItemOpen=1)<br>  * [Flexi sheet](http://sharepoint.westhealth.n-i.nhs.uk/sites/it/techsupport/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2Fit%2Ftechsupport%2FShared%20Documents%2FICT%20Technical%20Staff%20Timesheets%2FTech%20Support%20Team%2FDamian%20Lunny&amp;FolderCTID=0x0120003AF4C9FBF0466440AE84540F122C3781&amp;View=%7B1CB3EF87%2D201E%2D459A%2D9252%2DAD424143782C%7D)<br>  * [Change requests](http://sharepoint.westhealth.n-i.nhs.uk/sites/it/Lists/Change%20Requests/AllItems.aspx)<br>  * [CAB calendar](http://sharepoint.westhealth.n-i.nhs.uk/sites/it/Lists/Change%20Requests/CAB%20Approvals.aspx)<br>  * [IT Contacts](http://sharepoint.westhealth.n-i.nhs.uk/sites/it/SitePages/ICT%20Contacts.aspx)<br>  * [SM Room Booking (SWAH)](http://sharepoint.westhealth.n-i.nhs.uk/sites/pap/smhswh/default.aspx)<br>  * [Equipment for disposal](http://sharepoint.westhealth.n-i.nhs.uk/sites/it/Asset%20Management/Forms/AllItems.aspx?RootFolder=%2Fsites%2Fit%2FAsset%20Management%2FDisposals%20List&amp;FolderCTID=0x0120003F2F2AC3449AA04AB84B36EFC7C431DF&amp;View=%7B398260EC%2DB041%2D42D8%2D8D60%2DBF25D1C86DF9%7D#InplviewHash398260ec-b041-42d8-8d60-bf25d1c86df9=RootFolder%3D%252Fsites%252Fit%252FAsset%2520Management%252FDisposals%2520List)</p>",
-            "author": {
-                "name": "Damian Lunny"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-03-18T18:09:12+00:00",
-            "date_modified": "2023-03-18T18:09:12+00:00"
-        },
-        {
-            "id": "https://github.com/damian-lunny/publii/home.html",
-            "url": "https://github.com/damian-lunny/publii/home.html",
-            "title": "home",
-            "summary": "## Helpdesk * [Helpdesk](http://wta-eservicedesk/eSDSSO/esso.asp?service=ICCM%20e-Service%20Desk) * [Show all my assigned calls](http://wta-eservicedesk/esdDashboard/View_Assigned_Faults.aspx?Engineer=WESTHEALTH%5Cdlunn001) * [Query form](http://wta-eservicedesk/eSD/eform.aspx?Action=Enquiry+Search&amp;Map=Search) * [On-call landing page](http://wt-ictwiki/dokuwiki/doku.php?id=on-call-landing-page) * [View unassigned calls](http://wta-eservicedesk/esdDashboard/View_Unassigned_Faults.aspx?SupportTeam=(Unassigned+-+Technical+Support)) * [Logon report (new)](http://wta-repserv1/Reports/powerbi/Performance%20and%20Service%20Improvement/ICT/Server%20And%20Security%20Admin/New%20Login%20Report) * [Logon report (old)](http://wta-repserv1/Reports/Pages/Report.aspx?ItemPath=%2fPerformance+and+Service+Improvement%2fICT%2fServer+And+Security+Admin%2fLogon+Report) ## Microsoft * [Webmail (Office 365)](http://outlook.office365.com/owa/westerntrust.hscni.net) * [Exchange Admin 365](https://admin.exchange.microsoft.com/) * [MFA setup](https://aka.ms/MFASetup) * [Microsoft Profile&hellip;",
-            "content_html": "<p>## Helpdesk<br>  * [Helpdesk](http://wta-eservicedesk/eSDSSO/esso.asp?service=ICCM%20e-Service%20Desk)<br>  * [Show all my assigned calls](http://wta-eservicedesk/esdDashboard/View_Assigned_Faults.aspx?Engineer=WESTHEALTH%5Cdlunn001)<br>  * [Query form](http://wta-eservicedesk/eSD/eform.aspx?Action=Enquiry+Search&amp;Map=Search)<br>  * [On-call landing page](http://wt-ictwiki/dokuwiki/doku.php?id=on-call-landing-page)<br>  * [View unassigned calls](http://wta-eservicedesk/esdDashboard/View_Unassigned_Faults.aspx?SupportTeam=(Unassigned+-+Technical+Support))<br>  * [Logon report (new)](http://wta-repserv1/Reports/powerbi/Performance%20and%20Service%20Improvement/ICT/Server%20And%20Security%20Admin/New%20Login%20Report)<br>  * [Logon report (old)](http://wta-repserv1/Reports/Pages/Report.aspx?ItemPath=%2fPerformance+and+Service+Improvement%2fICT%2fServer+And+Security+Admin%2fLogon+Report)<br><br>## Microsoft<br>  * [Webmail (Office 365)](http://outlook.office365.com/owa/westerntrust.hscni.net)<br>  * [Exchange Admin 365](https://admin.exchange.microsoft.com/)<br>  * [MFA setup](https://aka.ms/MFASetup)<br>  * [Microsoft Profile (Azure) - My Apps](https://account.activedirectory.windowsazure.com/r/#/profile)<br><br>## Others<br>  * [Order equipment](http://phonedir/EquipmentOrder)<br>  * [Web JetAdmin](http://wt-pm01:8000/)</p>",
-            "author": {
-                "name": "Damian Lunny"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-03-18T18:06:56+00:00",
-            "date_modified": "2023-03-18T18:12:42+00:00"
-        }
     ]
 }
